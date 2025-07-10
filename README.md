@@ -4,7 +4,7 @@
 
 ## 🔗 Основной репозиторий
 
-Код, ноутбуки и структура проекта: [ice-dynamics-clustering](https://github.com/LISA-ITMO/ice-dynamics-clustering)
+Код, ноутбуки и структура проекта: [ice-dynamics-clustering]([https://github.com/LISA-ITMO/ice-dynamics-clustering](https://github.com/IGK-arch/NIR_Ice_clustering))
 
 ## 🧊 Цель проекта
 
